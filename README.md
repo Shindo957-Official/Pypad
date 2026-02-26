@@ -51,13 +51,6 @@ That's it. No virtual environment, no dependencies, no setup.
 
 ---
 
-## Screenshots
-
-> Light and dark themes, with line numbers and the Find & Replace bar.
-
-*(Add your screenshots here)*
-
----
 
 ## Platform Support
 
